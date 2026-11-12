@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+
+# MNIST 数据（体积大，不入库；运行 MLP_pytorch.py 会自动下载到 ./data）
+data/
+
+# IDE
+.vscode/
